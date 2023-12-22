@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577704165784",
+    "project_id": "chaton-94252",
+    "storage_bucket": "chaton-94252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577704165784:android:c9dc9e82b652253dcbabed",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577704165784-0hvk7asf58re34egfsvm41ihlqdtfd8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatting",
+            "certificate_hash": "8aaadb3e4dcc720710f7046bed3cfcb065925958"
+          }
+        },
+        {
+          "client_id": "577704165784-ahltjvo4nvasho6058ubvtq477gilk13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdjwSu7Ud5C767T8i55EzSMyay-Re8yMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577704165784-ahltjvo4nvasho6058ubvtq477gilk13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
